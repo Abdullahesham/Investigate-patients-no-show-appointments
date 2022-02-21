@@ -6,7 +6,7 @@
 
 ## Installation
  * You will need an installation of Python, plus the following libraries:
-	*pandas
+	* pandas
 	* NumPy
 	* Matplotlib
 	* csv
